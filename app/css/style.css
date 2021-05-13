@@ -23,3 +23,8 @@ h5,
 h6 {
   font-family: var(--font--headings);
 }
+
+.Diamond {
+  border-style: solid;
+  transform: translate(20px);
+}
